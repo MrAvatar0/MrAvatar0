@@ -18,7 +18,7 @@
 
 ```javascript
 const mrAvatar0 = {
-    name: "Avatar",
+    name: "Mobin",
     role: "Front-End Developer",
     location: "Kermanshah, Iran",
     passions: ["Web Development", "UI/UX Design", "Open Source"],
@@ -54,7 +54,7 @@ const mrAvatar0 = {
 ## 🎵 Now Playing on Spotify
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wy734afdadg6eonhsigcgufpla&cover_image=true&theme=default&show_offline=true&background_color=090a0b&interchange=true&profanity=true&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wy734afdadg6eonhsigcgufpla&cover_image=true&theme=default&show_offline=false&background_color=090a0b&interchange=true&profanity=true&bar_color_cover=true" />
 </div>
 
 ---
